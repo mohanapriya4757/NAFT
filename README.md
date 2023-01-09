@@ -1,5 +1,5 @@
 # NAFT - NFT Marketplace Web App
-## A Project by Mohanapriya S
+## A Project by Mohanapriya S [NFT WINTERS]
 ### Event: Buidl the Future: A Global Hack for Web3
 ### Theme: Metaverse + NFTs
 ### Sponsored by: <a href="https://unstoppabledomains.com/" target="_blank">Unstoppable Domains</a>
